@@ -1,5 +1,5 @@
 # parcl-buyer-segmentation-ml
-Machine learning based buyer segmentation and investment profiling for Parcl real estate market intelligence, Completed as part of a Data Analyst internship at Unified Mentor Pvt. Ltd. Uses K-Means and Hierarchical clustering to identify 4 buyer segments: Global Investors, First-Time Buyers, Corporate Buyers, and Luxury Investors. Includes Streamlit dashboard.
+Machine learning based buyer segmentation and investment profiling for Parcl real estate market intelligence. Completed as part of a Data Analyst internship at Unified Mentor Pvt. Ltd. Uses K-Means and Hierarchical clustering to identify 4 buyer segments: Global Investors, First-Time Buyers, Corporate Buyers, and Luxury Investors. Includes Streamlit dashboard.
 ## 🌐 Live Dashboard
 👉 **[Click here to open the live Streamlit Dashboard](https://parcl-buyer-segmentation-ml-6xrw5zwx9tsscld4lsgu6c.streamlit.app/)**
 
